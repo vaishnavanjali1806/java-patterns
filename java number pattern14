@@ -1,4 +1,4 @@
-package project2practice;
+package project;
 
 import java.util.Scanner;
 
@@ -26,7 +26,7 @@ public class numORstar {
 		} else {
 			star= star-2;
 			value--;
-}
-}
-}
-}
+           }
+        }
+     }
+  }
