@@ -25,4 +25,7 @@ public class numtriangle {
 		System.out.println();
 		star=star+2;
 		space--;
-		
+		}
+}
+}
+
