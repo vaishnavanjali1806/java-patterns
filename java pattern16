@@ -3,7 +3,7 @@ package anjali;
 public class datatypeproject1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		byte a= 10;
 		short b= 20;
 		int c=30;
