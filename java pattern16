@@ -20,5 +20,6 @@ public class datatypeproject1 {
 		}
 		int g=32;
 		System.out.println(g);
-
+}
+}
 	
