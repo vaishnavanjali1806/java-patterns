@@ -13,7 +13,6 @@ public class numberpatter {
 				System.out.print(col+"");
 			}
 			System.out.println();
-		
 }
 }
 }
